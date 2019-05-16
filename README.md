@@ -1,5 +1,5 @@
-# [DWSSE]
-It is an improved version of Deep Hidden Physics Models.
+# [Dynamical Weights Deep hidden Physics Models]
+It is an improved version of the algorithmn brought by Deep Hidden Physics Models.
 Meanwhile, we applied the method to image denoising.
 
 
