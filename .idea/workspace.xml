@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f0b372c-d0f6-46d2-a206-e5e5209063a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/codes/KDV_different_dynamic_weights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/burgers_different_dynamic_weights.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/dynamic_weights_denoising_image.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matlab/gen_data_Burgers.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matlab/gen_data_KS.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matlab/gen_data_KS_chaotic.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matlab/gen_data_KdV.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matlab/gen_data_Schrodinger.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/KDV_different_regular_tanf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/KdV_Different_changef.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/burgers_different_ourversion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/burgers_different_toadd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/image_tensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/image_tensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/dynamic_weights_denoising_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/dynamic_weights_denoising_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,34 +21,31 @@
     <SUITE FILE_PATH="coverage/ML_Finalproject$KDV_different_dynamic_weights.coverage" NAME="KDV_different_dynamic_weights Coverage Results" MODIFIED="1558031393789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
     <SUITE FILE_PATH="coverage/ML_Finalproject$image_tensor.coverage" NAME="image_tensor Coverage Results" MODIFIED="1558031794071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
     <SUITE FILE_PATH="coverage/ML_Finalproject$burgers_different_ourversion.coverage" NAME="burgers_different_ourversion Coverage Results" MODIFIED="1558026825726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
-    <SUITE FILE_PATH="coverage/ML_Finalproject$burgers_different_toadd__1_.coverage" NAME="burgers_different_toadd (1) Coverage Results" MODIFIED="1558028927429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
     <SUITE FILE_PATH="coverage/ML_Finalproject$KDV_different_regular_tanf.coverage" NAME="KDV_different_regular_tanf Coverage Results" MODIFIED="1558030678266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
-    <SUITE FILE_PATH="coverage/ML_Finalproject$dynamic_weights_denoising_image.coverage" NAME="dynamic_weights_denoising_image Coverage Results" MODIFIED="1558033251661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
+    <SUITE FILE_PATH="coverage/ML_Finalproject$burgers_different_toadd__1_.coverage" NAME="burgers_different_toadd (1) Coverage Results" MODIFIED="1558035000168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
+    <SUITE FILE_PATH="coverage/ML_Finalproject$dynamic_weights_denoising_image.coverage" NAME="dynamic_weights_denoising_image Coverage Results" MODIFIED="1558033812923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codes" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="burgers_different_dynamic_weights.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="burgers_different_dynamic_weights.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Codes/burgers_different_dynamic_weights.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4935">
-              <caret line="329" lean-forward="true" selection-start-line="328" selection-start-column="36" selection-end-line="329" />
-              <folding>
-                <element signature="e#1#24#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="328" selection-start-column="36" selection-end-line="329" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dynamic_weights_denoising_image.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dynamic_weights_denoising_image.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Codes/dynamic_weights_denoising_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="992">
-              <caret line="273" selection-start-line="273" selection-end-line="273" />
+            <state relative-caret-position="-917">
+              <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
               <folding>
                 <element signature="e#1#24#0" expanded="true" />
-                <marker date="1558033251652" expanded="true" signature="11419:11450" ph="..." />
-                <marker date="1558033251652" expanded="true" signature="11520:11606" ph="..." />
-                <marker date="1558033251652" expanded="true" signature="12479:12516" ph="..." />
+                <marker date="1558033803561" expanded="true" signature="11419:11450" ph="..." />
+                <marker date="1558033803561" expanded="true" signature="11520:11606" ph="..." />
+                <marker date="1558033803561" expanded="true" signature="12479:12516" ph="..." />
               </folding>
             </state>
           </provider>
@@ -88,8 +76,8 @@
     <findStrings>
       <find>ide_net_u</find>
       <find>pde_weights_list</find>
-      <find>ide_net_f</find>
       <find>lb_idn</find>
+      <find>ide_net_f</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,7 +106,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
+    <option name="x" value="31" />
     <option name="y" value="23" />
     <option name="width" value="1370" />
     <option name="height" value="826" />
@@ -134,11 +122,6 @@
             <path>
               <item name="ML_Finalproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ML_Finalproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ML_Finalproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ML_Finalproject" type="462c0819:PsiDirectoryNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dynamic_weights_denoising_image">
+  <component name="RunManager" selected="Python.burgers_different_toadd (1)">
     <configuration name="KDV_different_dynamic_weights" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML_Finalproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,11 +262,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.burgers_different_toadd (1)" />
         <item itemvalue="Python.dynamic_weights_denoising_image" />
         <item itemvalue="Python.image_tensor" />
         <item itemvalue="Python.KDV_different_dynamic_weights" />
         <item itemvalue="Python.KDV_different_regular_tanf" />
-        <item itemvalue="Python.burgers_different_toadd (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -301,11 +284,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="23" width="1370" height="826" extended-state="0" />
+    <frame x="31" y="23" width="1370" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.109186746" side_tool="true" visible="true" weight="0.31550068" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.109186746" side_tool="true" weight="0.31550068" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89081323" visible="true" weight="0.31550068" />
       <window_info anchor="bottom" id="Version Control" />
@@ -408,26 +391,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Codes/burgers_different_dynamic_weights.py">
+    <entry file="file://$PROJECT_DIR$/Codes/dynamic_weights_denoising_image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4935">
-          <caret line="329" lean-forward="true" selection-start-line="328" selection-start-column="36" selection-end-line="329" />
+        <state relative-caret-position="-917">
+          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
           <folding>
             <element signature="e#1#24#0" expanded="true" />
+            <marker date="1558033803561" expanded="true" signature="11419:11450" ph="..." />
+            <marker date="1558033803561" expanded="true" signature="11520:11606" ph="..." />
+            <marker date="1558033803561" expanded="true" signature="12479:12516" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Codes/dynamic_weights_denoising_image.py">
+    <entry file="file://$PROJECT_DIR$/Codes/burgers_different_dynamic_weights.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="992">
-          <caret line="273" selection-start-line="273" selection-end-line="273" />
-          <folding>
-            <element signature="e#1#24#0" expanded="true" />
-            <marker date="1558033251652" expanded="true" signature="11419:11450" ph="..." />
-            <marker date="1558033251652" expanded="true" signature="11520:11606" ph="..." />
-            <marker date="1558033251652" expanded="true" signature="12479:12516" ph="..." />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="328" selection-start-column="36" selection-end-line="329" />
         </state>
       </provider>
     </entry>

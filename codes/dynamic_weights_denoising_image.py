@@ -343,7 +343,7 @@ if __name__ == "__main__":
     # Train the identifier
     mainmodel.ide_u_train(itertime=0)
 
-    mainmodel.ide_f_train(itertime=0)
+    # mainmodel.ide_f_train(itertime=0)
 
     # model.idn_u_f_train(N_iter=0)
 
