@@ -1,5 +1,5 @@
 # [Dynamical Weights Deep hidden Physics Models]
-It is an improved version of the algorithmn brought by Deep Hidden Physics Models.
+It is an improved version of the algorithmn brought by Deep Hidden Physics Models @article.
 Meanwhile, we applied the method to image denoising.
 
 
