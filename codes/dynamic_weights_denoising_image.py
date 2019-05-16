@@ -307,21 +307,21 @@ if __name__ == "__main__":
     # For identification
     N_train = 10000
 
-    # idx = imsize[0]*imsize[0]
-    idx = np.random.choice(u_array.shape[0], N_train, replace=False)
-    y_train = y_array[idx,:]
-    x_train = x_array[idx,:]
-    u_train = u_array[idx,:]
-    # x_train = []
-    # y_train = []
-    # u_train = []
-    # for i in range(idx):
-    #     x_train.append(np.array(x_array[i]))
-    #     y_train.append(np.array(y_array[i]))
-    #     u_train.append(np.array(u_array[i]))
-    # x_train = np.array(x_train)
-    # y_train = np.array(y_train)
-    # u_train = np.array(u_train)
+    idx = imsize[0]*imsize[0]
+    # idx = np.random.choice(u_array.shape[0], N_train, replace=False)
+    # y_train = y_array[idx,:]
+    # x_train = x_array[idx,:]
+    # u_train = u_array[idx,:]
+    x_train = []
+    y_train = []
+    u_train = []
+    for i in range(idx):
+        x_train.append(np.array(x_array[i]))
+        y_train.append(np.array(y_array[i]))
+        u_train.append(np.array(u_array[i]))
+    x_train = np.array(x_train)
+    y_train = np.array(y_train)
+    u_train = np.array(u_train)
 
     noise = 0.05
     u_train = u_train + noise * np.std(u_train)* np.random.randn(u_train.shape[0], u_train.shape[1])
@@ -343,7 +343,7 @@ if __name__ == "__main__":
     # Train the identifier
     mainmodel.ide_u_train(itertime=0)
 
-    # mainmodel.ide_f_train(itertime=0)
+    mainmodel.ide_f_train(itertime=0)
 
     # model.idn_u_f_train(N_iter=0)
 
